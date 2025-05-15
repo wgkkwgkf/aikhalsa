@@ -1,1 +1,1 @@
-# aikhalsa
+# ai-khalsa-webapp
